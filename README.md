@@ -7,4 +7,5 @@
 ## Licença
 instalador_pop/ `v0.1.0` </br> 
 _Copyright_ :copyright: **⋅** 2023 **⋅** **Ícaro Vidal Freire** <br>
+![GitHub](https://img.shields.io/github/license/icaro-freire/instalador_pop?style=plastic)
 
