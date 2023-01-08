@@ -26,6 +26,7 @@ echo
 # ./scripts_bash/03_instalarFontes.sh
 # ./scripts_bash/04_moverScripts.sh
 # ./scripts_bash/05_instalarLua.sh
+# ./scripts_bash/08_instalarNeovim.sh
 #-------------------------------------------------------------------------<<
 
 # mensagem final -----------------------------------------------------------
