@@ -23,10 +23,13 @@
 echo 
 # ./scripts_bash/01_instalarGit.sh
 # ./scripts_bash/02_instalarApt.sh
-# ./scripts_bash/03_instalarFontes.sh
-# ./scripts_bash/04_moverScripts.sh
-# ./scripts_bash/05_instalarLua.sh
+# ./scripts_bash/03_instalarSl.sh
+# ./scripts_bash/04_instalarFontes.sh
+# ./scripts_bash/05_moverScripts.sh
+# ./scripts_bash/06_instalarLua.sh
+# ./scripts_bash/07_instalarLaTeX.sh 
 # ./scripts_bash/08_instalarNeovim.sh
+# ./scripts_bash/09_configurarNeovim.sh
 #-------------------------------------------------------------------------<<
 
 # mensagem final -----------------------------------------------------------

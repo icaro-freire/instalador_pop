@@ -4,6 +4,34 @@
 ## Status
 :construction: EM CONSTRUÇÃO :construction:
 
+## Fontes Usadas:
+
+### Caligráfica 
+
+- Exmouth
+- Intimacy
+
+### Monoespaçada
+
+- Fira Mono (Nerd Font)
+
+### Serifada
+
+- Aref Ruqaa (quase caligráfica)
+- Fontin
+- Minion
+- Aria Text G1
+
+### Sem Serifa
+
+- Cabin
+- Comfortaa
+- Fontin Sans
+- YouTube Sans
+- Raleway
+- Scala
+- Oxygen
+
 ## Licença
 instalador_pop/ `v0.1.0` </br> 
 _Copyright_ :copyright: **⋅** 2023 **⋅** **Ícaro Vidal Freire** <br>
