@@ -37,3 +37,8 @@ instalador_pop/ `v0.1.0` </br>
 _Copyright_ :copyright: **⋅** 2023 **⋅** **Ícaro Vidal Freire** <br>
 ![GitHub](https://img.shields.io/github/license/icaro-freire/instalador_pop?style=plastic)
 
+:warning: A maior parte das fontes são livres; todavia, algumas podem possuir 
+          licença específica. 
+          Verifique a licença de cada fonte, antes de instalar em seu sistema.
+
+:pushpin: Não há garantias! Tudo é por sua conta em risco.
