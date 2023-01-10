@@ -1,29 +1,23 @@
 #!/bin/bash
 
 #===========================================================================
-# Nome     : 03_instalarSl.sh
+# Nome     : 11_instalarPacotesR.sh
 #            Copyright (c) 2023 Ícaro Vidal Freire 
 #---------------------------------------------------------------------------
-# Descrição: 
+# Descrição: Instala pacotes R que uso
 # Licença  : The MIT License (MIT)
 # Versão   : 0.1.0
 #---------------------------------------------------------------------------
 # Como usar: 
 #===========================================================================
 
-
-# instalar sl ============================================================== (OK)
-
-instalar_sl(){
+instalar_pacotes_r(){
   echo 
-  echo "##### Instalando o programa sl ================================================="
+  echo "##### Instalando pacotes R (vai demorar!) =================================="
   echo 
-  #-------------------------------------------------------------------------
-  sudo apt install sl -y 
-  #-------------------------------------------------------------------------
+  Rscript ./scripts_r/pacotes-r_instalar.R
   echo 
-  echo "-- FEITO (sl instalado)"
+  echo "-- Feito (pacotes do R)"
 }
 
-instalar_sl
-
+instalar_pacotes_r

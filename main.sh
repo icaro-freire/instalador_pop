@@ -30,6 +30,8 @@ echo
 # ./scripts_bash/07_instalarLaTeX.sh 
 # ./scripts_bash/08_instalarNeovim.sh
 # ./scripts_bash/09_configurarNeovim.sh
+# ./scripts_bash/10_instalarR.sh
+# ./scripts_bash/11_instalarPacotesR.sh
 #-------------------------------------------------------------------------<<
 
 # mensagem final -----------------------------------------------------------
