@@ -33,7 +33,9 @@ echo
 # ./scripts_bash/10_instalarR.sh
 # ./scripts_bash/11_instalarRStudio.sh
 # ./scripts_bash/12_instalarPacotesR.sh
-./scripts_bash/13_instalarWXMaxima.sh
+# ./scripts_bash/13_instalarWXMaxima.sh 
+# ./scripts_bash/14_instalarTor.sh
+# ./scripts_bash/15_instalarFlatpak.sh
 #-------------------------------------------------------------------------<<
 
 # mensagem final -----------------------------------------------------------
