@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #===========================================================================
-# Nome     : 11_instalarPacotesR.sh
+# Nome     : 12_instalarPacotesR.sh
 #            Copyright (c) 2023 Ícaro Vidal Freire 
 #---------------------------------------------------------------------------
 # Descrição: Instala pacotes R que uso

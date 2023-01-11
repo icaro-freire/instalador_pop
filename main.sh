@@ -31,7 +31,9 @@ echo
 # ./scripts_bash/08_instalarNeovim.sh
 # ./scripts_bash/09_configurarNeovim.sh
 # ./scripts_bash/10_instalarR.sh
-# ./scripts_bash/11_instalarPacotesR.sh
+# ./scripts_bash/11_instalarRStudio.sh
+# ./scripts_bash/12_instalarPacotesR.sh
+./scripts_bash/13_instalarWXMaxima.sh
 #-------------------------------------------------------------------------<<
 
 # mensagem final -----------------------------------------------------------
