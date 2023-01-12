@@ -39,7 +39,7 @@ instalar_flatpak()
   done
   #-----------------------------------------------------------------------<<
   echo
-  echo "-- FEITO (Octave, GeoGebra, OBS, Telegram, Okular e Thunderbird instalados)" 
+  echo "**---** FEITO (Octave, GeoGebra, OBS, Telegram, Okular e Thunderbird instalados)" 
 }
 
 # rodando a função ---------------------------------------------------------
