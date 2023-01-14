@@ -11,6 +11,8 @@
 # Como usar: 
 #===========================================================================
 
+CLASSE_ORIGEM=./classe_latex/coffee4
+CLASSE_DESTINO=/home/icarofreire/.miktex/texmfs/install/tex/latex
 
 # instalando os programas da distribuição MiKTeX ------------------------->>
 
@@ -37,6 +39,10 @@ instalar_LaTeX(){
   sudo apt install miktex
   #------------------------------------
   echo 
+  echo "# movendo classe coffee4.sty"
+  echo 
+  mv "$CLASSE_ORIGEM" "$CLASSE_DESTINO" 
+  echo
   echo "----- FEITO (LaTeX instalado - lembrar de atualizar MikTeX)"
 }
 #-------------------------------------------------------------------------<<
