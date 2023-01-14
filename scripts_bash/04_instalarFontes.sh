@@ -35,6 +35,7 @@ intalar_fontes(){
   mkdir -p "$FONTES_DESTINO" 
   mv $FONTES_ORIGEM "$FONTES_DESTINO" 
   sudo fc-cache -vf  
+  fc-cache -vf
   echo 
   echo "----- FEITO (fontes movidas e cache atualizado)"
 }
