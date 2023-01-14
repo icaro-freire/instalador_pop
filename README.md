@@ -1,36 +1,73 @@
 # instalador_pop
 > Scripts, em Bash, para configurações de programas no Pop!_OS 22.04 LTS
 
-## Status
-:construction: EM CONSTRUÇÃO :construction:
+## Como usar... 
 
-## Fontes Usadas:
+Esse repositório é dividido assim:
 
-### Caligráfica 
+```bash
+.
+├── LICENSE
+├── README.md
+├── main.sh
+├── minhas-fontes.tar.xz
+├── binarios/
+│   └── meus-scripts/
+├── classe_latex/
+│   └── coffee4/
+├── scripts_r/
+└── scripts_bash/
+```
 
-- Exmouth
-- Intimacy
 
-### Monoespaçada
 
-- Fira Mono (Nerd Font)
+```bash
+.
+├── LICENSE
+├── README.md
+├── main.sh
+├── minhas-fontes.tar.xz
+├── binarios/
+│   └── meus-scripts/
+│       ├── atualizar.sh
+│       ├── backup.sh
+│       └── novo-script.sh
+├── classe_latex/
+│   └── coffee4/
+│       └── coffee4.sty
+├── scripts_r/
+│   └── pacotes-r_instalar.R
+└── scripts_bash/
+    ├── 01_instalarGit.sh
+    ├── 02_instalarApt.sh
+    ├── 03_instalarSl.sh
+    ├── 04_instalarFontes.sh
+    ├── 05_moverScripts.sh
+    ├── 06_instalarLua.sh
+    ├── 07_instalarLaTeX.sh
+    ├── 08_instalarNeovim.sh
+    ├── 09_configurarNeovim.sh
+    ├── 10_instalarR.sh
+    ├── 11_instalarRStudio.sh
+    ├── 12_instalarPacotesR.sh
+    ├── 13_instalarWXMaxima.sh
+    ├── 14_instalarTor.sh
+    ├── 15_instalarFlatpak.sh
+    └── 16_instalarOhMyZsh.sh
+```
 
-### Serifada
+Ou, de forma mais reduzida: 
 
-- Aref Ruqaa (quase caligráfica)
-- Fontin
-- Minion
-- Aria Text G1
+```bash 
 
-### Sem Serifa
+```
 
-- Cabin
-- Comfortaa
-- Fontin Sans
-- YouTube Sans
-- Raleway
-- Scala
-- Oxygen
+O arquivo `main.sh` é o responsável pela integração dos _scripts_, em Bash ou R, para instalação de aplicativos ou pacotes. 
+Você pode clonar o repositório
+
+```bash 
+git clone https://github.com/icaro-freire/instalador_pop.git
+```
 
 ## Licença
 instalador_pop/ `v0.1.0` </br> 
