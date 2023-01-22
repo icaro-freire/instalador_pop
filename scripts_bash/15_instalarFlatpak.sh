@@ -19,6 +19,7 @@ PROGRAMAS_FLATPAK=(
   org.telegram.desktop
   org.kde.okular
   org.mozilla.Thunderbird
+  org.inkscape.Inkscape
 )
 
 # função de instalação -----------------------------------------------------
@@ -39,7 +40,7 @@ instalar_flatpak()
   done
   #-----------------------------------------------------------------------<<
   echo
-  echo "**---** FEITO (Octave, GeoGebra, OBS, Telegram, Okular e Thunderbird instalados)" 
+  echo "**---** FEITO (Octave, GeoGebra, OBS, Telegram, Okular, Thunderbird e Inkscape instalados)" 
 }
 
 # rodando a função ---------------------------------------------------------
