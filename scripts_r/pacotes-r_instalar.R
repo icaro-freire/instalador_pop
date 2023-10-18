@@ -29,7 +29,10 @@ instalar_pacotes_cran <- function() {
     "learnr", 
     "bookdown", 
     "distill",
-    "pagedown"
+    "pagedown", 
+    "manipulate", 
+    "nlstools", 
+    "qpcR"
   ) 
   # instalação 
   install.packages(pacotes_cran)
